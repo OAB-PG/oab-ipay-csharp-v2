@@ -53,8 +53,8 @@ using OabIpay.Net.Models;
 Keep these values in server-side configuration such as `appsettings.json`, environment-specific config, database configuration, or another protected configuration store.
 
 ```csharp
-var keyPath = @"E:\OAB_PROJECT\pg\oabresource\uat-rop\rop-uat-resource\";
-var alias = "ROPCUSTOMS2022";
+var keyPath = @"D:\oabpgkeys\";
+var alias = "merchant-terminal-aliasname";
 var keyPassword = "merchant-key-password";
 ```
 
